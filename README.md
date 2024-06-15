@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guidomodarelli" alt="guidomodarelli" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://cv-guido-modarelli.vercel.app/](https://cv-guido-modarelli.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://cv.guidomodarelli.com/](https://cv.guidomodarelli.com/)
 
 - 📫 How to reach me **guidomodarelli25@gmail.com**
 
