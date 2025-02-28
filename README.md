@@ -21,13 +21,7 @@ I'm a passionate full-stack developer focused on building efficient and scalable
 ## 📂 Projects
 Check out my projects at **[My Portfolio](https://cv.guidomodarelli.com/)**
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-![Email](https://img.shields.io/badge/Email-guidomodarelli25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
----
-⭐️ Feel free to check out my repositories and contribute!
-
+## 📊 GitHub Stats
 <p>
   <img
     align="left"
@@ -43,3 +37,11 @@ Check out my projects at **[My Portfolio](https://cv.guidomodarelli.com/)**
     alt="guidomodarelli"
   />
 </p>
+
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)  
+[![Email](https://img.shields.io/badge/Email-guidomodarelli25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guidomodarelli25+from+github@gmail.com)
+
+---
+⭐️ Feel free to check out my repositories and contribute!
+
